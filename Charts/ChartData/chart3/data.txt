@@ -1,0 +1,23 @@
+Browser market shares in January, 2018
+Browser
+Percentage
+1
+
+Chrome
+Internet Explorer
+Firefox
+Edge
+Safari
+Other
+
+61,6
+
+11,8
+
+10,9
+
+4,7
+
+4,2
+
+7,1

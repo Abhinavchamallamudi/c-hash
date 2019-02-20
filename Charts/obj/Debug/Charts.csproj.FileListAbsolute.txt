@@ -1,0 +1,28 @@
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\bin\Debug\Charts.exe.config
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\bin\Debug\Charts.exe
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\bin\Debug\Charts.pdb
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.csprojAssemblyReference.cache
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.Form1.resources
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.Properties.Resources.resources
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.csproj.GenerateResource.cache
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.csproj.CoreCompileInputs.cache
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.exe
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.pdb
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.chart4.resources
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.chart1.resources
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.chart2.resources
+C:\Users\SomeStuffAreJustBad\Desktop\Charts\Charts\obj\Debug\Charts.chart3.resources
+E:\net\assignment 6\Charts\Charts\bin\Debug\Charts.exe.config
+E:\net\assignment 6\Charts\Charts\bin\Debug\Charts.exe
+E:\net\assignment 6\Charts\Charts\bin\Debug\Charts.pdb
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.csprojAssemblyReference.cache
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.chart1.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.chart2.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.chart3.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.chart4.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.Form1.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.Properties.Resources.resources
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.csproj.GenerateResource.cache
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.csproj.CoreCompileInputs.cache
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.exe
+E:\net\assignment 6\Charts\Charts\obj\Debug\Charts.pdb
