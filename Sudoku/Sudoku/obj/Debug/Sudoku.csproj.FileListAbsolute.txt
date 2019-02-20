@@ -1,0 +1,22 @@
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.gameWindow.resources
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\SomeStuffAreJustBad\Desktop\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.gameWindow.resources
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+E:\net\assignment 5\New folder\C# Sudoku\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
