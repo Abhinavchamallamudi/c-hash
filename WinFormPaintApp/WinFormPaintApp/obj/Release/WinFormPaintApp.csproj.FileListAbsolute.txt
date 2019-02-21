@@ -1,0 +1,9 @@
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\bin\Release\WinFormPaintApp.exe.config
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\bin\Release\WinFormPaintApp.exe
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\bin\Release\WinFormPaintApp.pdb
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.Form1.resources
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.Properties.Resources.resources
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.csproj.GenerateResource.cache
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.csproj.CoreCompileInputs.cache
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.exe
+F:\Work\medfellow\WinFormPaintApp\WinFormPaintApp\obj\Release\WinFormPaintApp.pdb

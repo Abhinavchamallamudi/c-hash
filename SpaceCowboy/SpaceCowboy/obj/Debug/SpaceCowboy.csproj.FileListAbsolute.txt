@@ -1,0 +1,11 @@
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\bin\Debug\SpaceCowboy.exe.config
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\bin\Debug\SpaceCowboy.exe
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\bin\Debug\SpaceCowboy.pdb
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.csprojAssemblyReference.cache
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.Properties.Resources.resources
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.csproj.GenerateResource.cache
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.csproj.CoreCompileInputs.cache
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.exe
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.pdb
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.Form1.resources
+C:\Users\Spherical\Desktop\SpaceCowboy\SpaceCowboy\SpaceCowboy\obj\Debug\SpaceCowboy.Form2.resources
